@@ -47,7 +47,29 @@ I would use Catamaran for all the description and all the information as it is a
 ## Main fonts of the website 
 + For the website i will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that i feel is under apprecated, it also goes really well with the layout and colours of this website.
 + The font will come from google fonts: https://fonts.google.com/specimen/Josefin+Sans, The weight of the font will be: Extra-light 200.
-+ For the website i will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as i would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them.    
++ For the website i will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as i would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them.  
+
+# Tests
+
++ The test i will be doing will consist of checking that all my links lead somewhere and that the main features of the website will work as intended such as:
+The Carasoul works and you can switch between images
+The Images of the phone all load and can be seen and positioned properly
+The table of specs of the items
+
+# Navigation
+
++ if you are able to travel there it will have an "Y"
++ If you might be ablr to travel there it will have an "m"
+
+| Column - FROM Row - TO | home | All Phones | Deals! | Top Sellers | Contact Us | About Us | Phone 1 | Phone 2 | Phone 3 | Phone 4 | Phone 5 | Phone 6 | Phone 7 | Phone 8 | Phone 9 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| home | x | x | x | x | x | x | x | x | x | x | x | x |  |  |  |
+| All Phones | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
+| Deals | x | x | x | x | x | x | m | m | m | m | m | m | m | m | m |
+| Phone X | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
+| Phone 11 | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
+| Phone 12 | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
+| Phone 13| x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
 
 # Reviews
 ## Aiden : 
