@@ -61,15 +61,15 @@ The table of specs of the items
 + if you are able to travel there it will have an "Y"
 + If you might be ablr to travel there it will have an "m"
 
-| Column - FROM Row - TO | home | All Phones | Deals | Phone X | IPhone 11 | IPhone 12 | IPhone 13 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| home | x | x | x | x | x | x | x | x | x | x | x | x |  |  |  |
-| All Phones | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
-| Deals | x | x | x | x | x | x | m | m | m | m | m | m | m | m | m |
-| IPhone X | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
-| IPhone 11 | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
-| IPhone 12 | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
-| IPhone 13 | x | x | x | x | x | x |  |  |  |  |  |  |  |  |  |
+| Column - FROM Row - TO | home | All Phones | Deals | Iphone X | Iphone 11 | Iphone 12 | Iphone 13 |
+|------------------------|------|------------|-------|----------|-----------|-----------|-----------|
+| home                   | Y    | Y          | Y     | Y        | Y         | Y         | Y         |
+| All Phones             | Y    | Y          | Y     | Y        | Y         | Y         | Y         |
+| Deals                  | Y    | Y          | Y     | Y        | Y         | Y         | Y         |
+| Iphone X               | Y    | Y          | Y     | Y        |           |           |           |
+| IPhone 11              | Y    | Y          | Y     |          | Y         |           |           |
+| Iphone 12              | Y    | Y          | Y     |          |           | Y         |           |
+| Iphone 13              | Y    | Y          | Y     |          |           |           | Y         |
 
 # Reviews
 ## Aiden : 
