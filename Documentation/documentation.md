@@ -24,12 +24,14 @@
 
 + https://imgur.com/a/zTD45dD
 
-+ .colour-primary-1 {colour:687A91} Main colour
++ .colour-primary-1 {colour:687A91} Header and footer colour
 + .colour-primary-2 {colour:836994} Secondary colour
 
 ## Design 2
 + The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so i want it to look as professional as possible so they will be able to trust and understand the website.
 + The colours are quite basic as then it isnt too distracting from the product, as well for older generation they aren't all up to date with the technology of today so the less complex the website is the easier it will be to understand where everthing is. 
+
++ 
 
 # Fonts
 ## Design 1: 
