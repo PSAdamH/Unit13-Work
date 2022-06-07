@@ -20,7 +20,7 @@
 # My websites colour scheme 
 ## Design 1
 + The colour scheme of the first design, ive gone for a pastel colour design as it complements the entire logo and i think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
-+ The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours 
++ The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours, This design will have a carasoul displaying all of the current deals and newest model and additions
 
 + https://imgur.com/a/zTD45dD
 
@@ -29,9 +29,11 @@
 
 ## Design 2
 + The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so i want it to look as professional as possible so they will be able to trust and understand the website.
-+ The colours are quite basic as then it isnt too distracting from the product, as well for older generation they aren't all up to date with the technology of today so the less complex the website is the easier it will be to understand where everthing is. 
++ The colours are quite basic as then it isnt too distracting from the product, as well for older generation they aren't all up to date with the technology of today so the less complex the website is the easier it will be to understand where everthing is. This design will have a banner showing all the newest additions to the website as well as having its own section on the navigation bar
 
-+ 
+## Final Design Choice
+
++ The design i have chosen is design 1 as i like the colours more and i think it will suit the idea of the website more. Design one feel like the cleaner choice as it has a carasoul instead of cluttering up the navigation bar and having a whole section for new products.
 
 # Fonts
 ## Design 1: 
@@ -70,6 +72,14 @@ The table of specs of the items
 | IPhone 11              | Y    | Y          | Y     |          | Y         |           |           |
 | Iphone 12              | Y    | Y          | Y     |          |           | Y         |           |
 | Iphone 13              | Y    | Y          | Y     |          |           |           | Y         |
+
+# Development Revision And Feedback
+
+In the making of the website some the proportions had to be ajusted and changed meaning some of the proportions may not be the same as the plan
+
++ The first amount of feedback i have been given was that i need more colours as the colours where a bit dull and gloomy so i changed the colour scheme to the current colour scheme 
+
+
 
 # Reviews
 ## Aiden : 
