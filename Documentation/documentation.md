@@ -61,7 +61,7 @@ The table of specs of the items
 + if you are able to travel there it will have an "Y"
 + If you might be ablr to travel there it will have an "m"
 
-| Column - FROM Row - TO | home | All Phones | Deals! | Top Sellers | Contact Us | About Us | IPhone X | IPhone 11 | IPhone 12 | IPhone 13 |
+| Column - FROM Row - TO | home | All Phones | Deals! | Top Sellers | Contact Us | About Us | IPhone X | IPhone 11 | IPhone 12 | IPhone 13 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | home | x | x | x | x | x | x | x | x | x | x | x | x |  |  |  |
 | All Phones | x | x | x | x | x | x | x | x | x | x | x | x | x | x | x |
