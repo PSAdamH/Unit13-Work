@@ -61,6 +61,15 @@ The Carasoul works and you can switch between images
 The Images of the phone all load and can be seen and positioned properly
 The table of specs of the items
 
++ After testing my website i have realised that zooming in on the website cuts of half of the websites content, zooming out moves the navigation bar slightly right making it of centre, ive opened the website in two different web browser and all the proportions are working as intended 
+
++ Chrome : https://imgur.com/gallery/yxX3o1M
++ Firefox : https://imgur.com/gallery/jP3EOzv
+
++ The carasoul isnt working as intented, Its left and right buttons are not working at all and the images are auto scrolling.
++ All the images of the phones are all there and all the links lead you to your intended place. 
+
+
 # Navigation
 
 + if you are able to travel there it will have an "Y"
