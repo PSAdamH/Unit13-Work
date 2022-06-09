@@ -100,6 +100,10 @@ you might need to work on the links a bit
 the text colour looks nice
 theres a lot of detail in the text boxes, a bit to much for my brain to handle
 very nice selection of phones,not a single andriod hmm
+
+# The Final Product
+
+The website is suitible for customers as it has a ton of information on the items for sale such as the brank, the operating system and the camera resolution, it is easily navigationable and has very fast rendering time meaning they wont have to wait for there ideal product to load, it is also easly accesible for everyone. The website is also suitible for the owners, The website looks good as shown by the reviews of the website, The website looks like a professional website. The website has the newest models of phone and all the phones would sell very well and very easy to under the specs, Also the website would be cheap to program. The suitability for developers would also be good as the website is well documented well meaning they would understand it easy, The webiste would easily maintainable as the code is organised and in order of location on the actual website so if a certain aspect breaks you would be able to fix it easily, as well this means that testing the server would also be easy. as well it meets the owners expectation.
   
 
 
