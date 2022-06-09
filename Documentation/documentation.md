@@ -67,7 +67,7 @@ The table of specs of the items
 + Firefox : https://imgur.com/gallery/jP3EOzv
 
 + The carasoul isnt working as intented, Its left and right buttons are not working at all and the images are auto scrolling.
-+ All the images of the phones are all there and all the links lead you to your intended place. 
++ All the images of the phones are all there and all the links lead you to your intended place according to the navigation map. 
 
 
 # Navigation
