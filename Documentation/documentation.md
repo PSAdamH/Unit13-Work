@@ -63,6 +63,8 @@ The table of specs of the items
 
 + After testing my website i have realised that zooming in on the website cuts of half of the websites content, zooming out moves the navigation bar slightly right making it of centre, ive opened the website in two different web browser and all the proportions are working as intended 
 
++ I will need to test to see if when you zoom in and out of the website that the proporstions are still working as intended. After testing this
+
 + Chrome : https://imgur.com/gallery/yxX3o1M
 + Firefox : https://imgur.com/gallery/jP3EOzv
 
