@@ -26,8 +26,7 @@
 
 + .colour-primary-1 {colour:687A91} Header and footer colour
 + .colour-primary-2 {colour:836994} Secondary colour
-+ <img src="../pictures/homepageDesign.png" alt="alt text" width="200"/>
-+ <img src="../pictures/phoneDesign.png" alt="alt text" width="200"/>
+
 
 
 
