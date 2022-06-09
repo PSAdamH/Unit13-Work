@@ -26,6 +26,10 @@
 
 + .colour-primary-1 {colour:687A91} Header and footer colour
 + .colour-primary-2 {colour:836994} Secondary colour
++ <img src="../pictures/homepageDesign.png" alt="alt text" width="200"/>
++ <img src="../pictures/phoneDesign.png" alt="alt text" width="200"/>
+
+
 
 ## Design 2
 + The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so i want it to look as professional as possible so they will be able to trust and understand the website.
