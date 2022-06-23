@@ -116,6 +116,17 @@ very nice selection of phones,not a single andriod hmm
 
 The website is suitible for customers as it has a ton of information on the items for sale such as the brank, the operating system and the camera resolution, it is easily navigationable and has very fast rendering time meaning they wont have to wait for there ideal product to load, it is also easly accesible for everyone. The website is also suitible for the owners, The website looks good as shown by the reviews of the website, The website looks like a professional website. The website has the newest models of phone and all the phones would sell very well and very easy to under the specs, Also the website would be cheap to program. The suitability for developers would also be good as the website is well documented well meaning they would understand it easy, The webiste would easily maintainable as the code is organised and in order of location on the actual website so if a certain aspect breaks you would be able to fix it easily, as well this means that testing the server would also be easy. as well it meets the owners expectation.
   
+  
+ https://www.tablesgenerator.com/markdown_tables#
+ 
+ | Assets         | Origin                                                 |
+|----------------|--------------------------------------------------------|
+| carousel       | https://getbootstrap.com/docs/4.0/components/carousel/ |
+| IPhone13 image | https://www.apple.com/uk/shop/buy-iphone/iphone-13     |
+| IPhone12 image | https://www.apple.com/uk/shop/buy-iphone/iphone-12     |
+| IPhone11 image | https://www.apple.com/uk/shop/buy-iphone/iphone-11     |
+| IphoneX Image  | https://mydukaan.io/album12/products/iphone-x          |
+|                |                                                        |
 
 
  
