@@ -4,73 +4,133 @@
 + The needs to be easly accessible for everyone
 + The website needs to be easy to navigate and easy to find things
 + The Website needs to have an insial rendering of under 2 seconds
-
 ## Owners
 + The website needs to look good as this will repersent your brand
 + The website needs to look professional
 + The website needs to bring in business and money
 + The programmers need to be cheap because the owners dont want to pay more the they need
-
-## Developers 
+## Developers
 + The website must be well documented to be able to program it with the least amount of confusion
 + The website must be easy maintainable
-+ The website must be easy to test to actually see if the website there making works 
++ The website must be easy to test to actually see if the website there making works
 + The Website meets the owners standards
 
-# My websites colour scheme 
-## Design 1
+# File Structure
+
+![alt text](./img/fileStucture.PNG)
+
+# Design of my Webssite
+
+## Colour scheme
+
+### Design 1
 + The colour scheme of the first design, ive gone for a pastel colour design as it complements the entire logo and i think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
-+ The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours, This design will have a carasoul displaying all of the current deals and newest model and additions
 
-+ https://imgur.com/a/zTD45dD
++ The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours
 
-+ .colour-primary-1 {colour:687A91} Header and footer colour
-+ .colour-primary-2 {colour:836994} Secondary colour
+![alt text](./img/design1-Colours.PNG)
+
+.colour-primary-1 {colour:687A91} = Header and footer colour
+
+.colour-primary-2 {colour:836994} = Secondary colour
 
 
 
-
-## Design 2
+### Design 2
 + The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so i want it to look as professional as possible so they will be able to trust and understand the website.
-+ The colours are quite basic as then it isnt too distracting from the product, as well for older generation they aren't all up to date with the technology of today so the less complex the website is the easier it will be to understand where everthing is. This design will have a banner showing all the newest additions to the website as well as having its own section on the navigation bar
 
-## Final Design Choice
+![alt text](./img/Design2-colours.PNG)
 
-+ The design i have chosen is design 1 as i like the colours more and i think it will suit the idea of the website more. Design one feel like the cleaner choice as it has a carasoul instead of cluttering up the navigation bar and having a whole section for new products.
+## Final Colour Choice
++ I am going to use Design one as it suits the vibe of the indestry alot better then Design two, as well. Lisa stated that the grey would look kinda bland and boring, where as the blue and voilet looks better and has more flash to it which will keep the users interatction.
 
-# Fonts
-## Design 1: 
-## Main fonts of the website
+# Layout and Features
+
+## Design 1
+
+### Homepage 
+
++ The layout for the design will be very simple and easy to navigate, There will be a navigation bar at the top with a logo or text in the top left, On the right of the navigation bar there will be two fuctioning buttons titled "All Phones" and "Deals". 
+
++ There will be two boxes in the middle of the page with a seperation between them. The left box will have a carousel that will feature and promote the newest phones and best deals. On the right box there will be a small selection of phones. These will be the newest phones we have from apple and samsaung.
+
++ There will be a footer at the bottom of the page that will be the same colour as the header
+
+### Phone Purchase Page
+
++ The layout for this page will be the same as the home page the only different will be that the box on the left will have an image in it, which will be the selected phone.
+
+### Home Page
+
+![alt text](./img/homepageDesign.png)
+
+### Phone Specs Page
+
+![alt text](./img/phoneDesign.png)
+
+## Design 2 
+
+### Homepage
+
++ The layout for the main page will be very easy to use and be able to tell what is for sale as all phones will be on the main page and there will be a sign in button on top left on the navigation bar, as well as a basket button being on the left allowing you to view what phones you have selected to buy
+
+### Phone Purchase Page
+
++ The layout of this page will have a navigation bar which will be the same colour as the home page, There will be two boxes in the middle of the page with a seperation between the two
+
+### Home Page
+
+![alt text](./img/design2.png)
+
+## Fonts
+### Design 1: 
+### Main fonts of the website
 + For the website i will use the Comfortaa font this is because it is a nice and simple font with not much change compaired to the normal font so it wont be as distracting, Comfortaa is also just quite an nice and smooth font to read in.     
 + The font will come from google fonts: https://fonts.google.com/specimen/Comfortaa,
 The weight is gunna be: Medium 500.
 + My website will not all one font my second font of choice is Catamaran this is because i feel like it is a good contrast to my previous font, This will be used for all of the titiles and navigation bar. 
 + This font will come from google fonts: https://fonts.google.com/specimen/Catamaran, The weight of the font is gunna be: Extra-light 200. 
-## How i would use each font
+
+
++ Comfortaa:
+
+![alt text](./img/comfortaa.PNG)
+
++ Catamaran:
+
+![alt text](./img/catamaran.PNG)
+
+### How i would use each font
 I would use Catamaran for all the description and all the information as it is a good contrast to the other font as its quite sharp compaired to the smoothness of the Comfortaa and i would use the Comfortaa as titles and on the navigation bar as Comfortaa is designed for bigger text and it is quite a smooth and clean font.
+
 ## Design 2:
-## Main fonts of the website 
+
+### Main fonts of the website 
+
 + For the website i will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that i feel is under apprecated, it also goes really well with the layout and colours of this website.
+
 + The font will come from google fonts: https://fonts.google.com/specimen/Josefin+Sans, The weight of the font will be: Extra-light 200.
-+ For the website i will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as i would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them.  
 
-# Tests
++ For the website i will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as i would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them. 
 
-+ The test i will be doing will consist of checking that all my links lead somewhere and that the main features of the website will work as intended such as:
-The Carasoul works and you can switch between images
-The Images of the phone all load and can be seen and positioned properly
-The table of specs of the items
++ Josefin Sans:
 
-+ After testing my website i have realised that zooming in on the website cuts of half of the websites content, zooming out moves the navigation bar slightly right making it of centre, ive opened the website in two different web browser and all the proportions are working as intended 
+![alt text](./img/JosefinSans.PNG)
 
-+ I will need to test to see if when you zoom in and out of the website that the proporstions are still working as intended. After testing this
+# Final Design Choice - Design 1 
 
-+ Chrome : https://imgur.com/gallery/yxX3o1M
-+ Firefox : https://imgur.com/gallery/jP3EOzv
+I have chosen design 1 due to it feeling more interactive, design 2 feels very unvarying compared to the carousel that design 1 has. The colour scheme as well doesnt seem as boring and feels like it suits the indestry alot more, Aiden stated that: "It looks very gloomy and unprofesional and doesnt give the store feeling". Design 1 also doesnt feel as crouded compared to the list on design 2. 
 
-+ The carasoul isnt working as intented, Its left and right buttons are not working at all and the images are auto scrolling.
-+ All the images of the phones are all there and all the links lead you to your intended place according to the navigation map. 
+# Asset list
 
+ | Assets         | Origin                                                 |
+|----------------|--------------------------------------------------------|
+| carousel       | https://getbootstrap.com/docs/4.0/components/carousel/ |
+| IPhone13 image | https://www.apple.com/uk/shop/buy-iphone/iphone-13     |
+| IPhone12 image | https://www.apple.com/uk/shop/buy-iphone/iphone-12     |
+| IPhone11 image | https://www.apple.com/uk/shop/buy-iphone/iphone-11     |
+| IphoneX Image  | https://mydukaan.io/album12/products/iphone-x          |
+|                |                                                        |
 
 # Navigation
 
@@ -87,13 +147,24 @@ The table of specs of the items
 | Iphone 12              | Y    | Y          | Y     |          |           | Y         |           |
 | Iphone 13              | Y    | Y          | Y     |          |           |           | Y         |
 
-# Development Revision And Feedback
+# Tests
 
-In the making of the website some the proportions had to be ajusted and changed meaning some of the proportions may not be the same as the plan
+| Spell Checked Website                                                    | Spell Checked Nothing spelt Wrong                |
+|--------------------------------------------------------------------------|--------------------------------------------------|
+| Confirm all links lead to intended place according to the navigation map | All links and buttons are working as they should |
+| Confirm all images render properly                                       | All images render correctly                      |
+| Confirm all css is working                                               | css is working                                   |
+| Carousel Left and Right buttons are working correctly                    | They are working as intended                     |
+| Carousel Images are rendering correctly                                  | The Carousel images have rendered correctly      |
+| All Navigation bar buttons are working as intended                       | All working Perfectly                            |
 
-+ The first amount of feedback i have been given was that i need more colours as the colours where a bit dull and gloomy so i changed the colour scheme to the current colour scheme 
+I also needed to test if the websites assets and proportions would work as intended on two different web browers i used firefox and google chrome.
 
++ Google Chrome
+![alt text](./img/working%20chrome.png)
 
++ Firefox:
+![alt text](./img/working%20firefox.png)
 
 # Reviews
 ## Aiden : 
@@ -112,21 +183,24 @@ the text colour looks nice
 theres a lot of detail in the text boxes, a bit to much for my brain to handle
 very nice selection of phones,not a single andriod hmm
 
-# The Final Product
+# Final Website
 
-The website is suitible for customers as it has a ton of information on the items for sale such as the brank, the operating system and the camera resolution, it is easily navigationable and has very fast rendering time meaning they wont have to wait for there ideal product to load, it is also easly accesible for everyone. The website is also suitible for the owners, The website looks good as shown by the reviews of the website, The website looks like a professional website. The website has the newest models of phone and all the phones would sell very well and very easy to under the specs, Also the website would be cheap to program. The suitability for developers would also be good as the website is well documented well meaning they would understand it easy, The webiste would easily maintainable as the code is organised and in order of location on the actual website so if a certain aspect breaks you would be able to fix it easily, as well this means that testing the server would also be easy. as well it meets the owners expectation.
-  
-  
- https://www.tablesgenerator.com/markdown_tables#
- 
- | Assets         | Origin                                                 |
-|----------------|--------------------------------------------------------|
-| carousel       | https://getbootstrap.com/docs/4.0/components/carousel/ |
-| IPhone13 image | https://www.apple.com/uk/shop/buy-iphone/iphone-13     |
-| IPhone12 image | https://www.apple.com/uk/shop/buy-iphone/iphone-12     |
-| IPhone11 image | https://www.apple.com/uk/shop/buy-iphone/iphone-11     |
-| IphoneX Image  | https://mydukaan.io/album12/products/iphone-x          |
-|                |                                                        |
+The final product is really close to the original plan of the website. There had to be some design changes like how phones where ameant to have a box around each of them, However in the final product i felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
 
+Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable
+
+
+
+# Development Revision And Feedback
+
+In the making of the website some the proportions had to be ajusted and changed meaning some of the proportions may not be the same as the plan
+
++ The first amount of feedback i have been given was that the font colour could be better i feel like if i would have made this white it would have popped alot more then it currently does.
+
++ The next amount of feedback i got was that i should add videos of unboxing and spec explination so you what your buying
+
+# Stengths and weaknesses
+
+The website isnt the best when it comes to different resolutions then 1920x1080 as the full website cant be seen and you have to scroll left to right, up and down to be able to view the full website. However it has some serious strengths like when you zoom in on information it is easily readable and it doesnt stretch or go out of proportions so people with poor vision can easy read the details of the phones.
 
  
