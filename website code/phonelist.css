@@ -1,0 +1,38 @@
+.phones {
+    display: flex;
+    margin: 30px;
+}
+
+.item_phone {
+
+}
+
+.item_phone:hover {
+    transition: .5s linear;
+    color: white;
+}
+
+.phoneIMAGE {
+    width: 144.62px; 
+    height: 171.07px;
+}
+
+.phoneNAME {
+
+}
+
+.phonePRICE {
+
+}
+
+.iphone7{
+    position: absolute; bottom: 400px; margin: 30px;
+}
+
+.iphone6{
+    position: absolute; bottom: 400px; margin: 30px; left: 200px;
+}
+
+.iphone5{
+    position: absolute; bottom: 400px; margin: 30px; left: 400px;
+}
