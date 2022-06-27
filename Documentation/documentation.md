@@ -181,6 +181,12 @@ The font colour and choice could be improved, I'd recommend the colour white wou
 
 The phone website looks good, at the time of writing this - there is no video. The specs are great, wide variety to look at and compare others with. The buy button is missing too. Why may i not purchase thy product.
 
+### Response:
+
+I have change the colours on the purple so there more readable however i couldnt find a colour that looks good on the blue other then black. Now whenever you hover a phone the font colour will change making it easier to read
+
+![alt text](./img/aidenfeedback)
+
 ## Ash :
 it looks very nice because you have good boxes with loads of improtant information
 i like the name
