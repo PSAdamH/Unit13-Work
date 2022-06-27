@@ -196,6 +196,11 @@ the text colour looks nice
 theres a lot of detail in the text boxes, a bit to much for my brain to handle
 very nice selection of phones,not a single andriod hmm
 
+### Response: 
+I couldnt find another colour that goes with the blue at all and i think the purple and blue looks quite perfeshional, I have toned down the text boxes alot and made it only the inportant stuff
+
+![alt text](./img.ashfeedback.PNG)
+
 # Final Website
 
 The final product is really close to the original plan of the website. There had to be some design changes like how phones where ameant to have a box around each of them, However in the final product i felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
