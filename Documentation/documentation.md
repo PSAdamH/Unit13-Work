@@ -185,7 +185,7 @@ The phone website looks good, at the time of writing this - there is no video. T
 
 I have change the colours on the purple so there more readable however i couldnt find a colour that looks good on the blue other then black. Now whenever you hover a phone the font colour will change making it easier to read
 
-![alt text](./img/aidenfeedback)
+![alt text](./img/aidenfeedback.png)
 
 ## Ash :
 it looks very nice because you have good boxes with loads of improtant information
