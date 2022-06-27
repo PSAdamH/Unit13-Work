@@ -19,6 +19,13 @@
 
 ![alt text](./img/fileStucture.PNG)
 
+# Website Requirements
+
++ My website should have a quick and responsive layout with a rendering under 2 seconds to keep the customers.
++ My website needs to have a video as 80% of online trafficing is video trafficing so the business would lose customers.
++ My website should have an easy to navigate layout and an clean website that isnt that over clustered.
++ My website should have easy fonts and colours to read and that dont blend into the backround. 
+
 # Design of my Webssite
 
 ## Colour scheme
