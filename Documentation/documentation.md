@@ -199,7 +199,7 @@ very nice selection of phones,not a single andriod hmm
 ### Response: 
 I couldnt find another colour that goes with the blue at all and i think the purple and blue looks quite perfeshional, I have toned down the text boxes alot and made it only the inportant stuff
 
-![alt text](./img.ashfeedback.PNG)
+![alt text](./img/ashfeedback.PNG)
 
 # Final Website
 
