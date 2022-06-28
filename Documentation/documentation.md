@@ -205,7 +205,9 @@ I couldnt find another colour that goes with the blue at all and i think the pur
 
 The final product is really close to the original plan of the website. There had to be some design changes like how phones where ameant to have a box around each of them, However in the final product i felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
 
-Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable
+Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
+
+Aswell, When it comes to the stakesholders it also suits all there needs. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isnt hard to understand and its easy to navigate to each phone purchase page. When it comes to the Owners the website looks perfessional and most likely will bring in business and money as it has the newest and best iphones. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very mantanible. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the ownsers standards. 
 
 
 
