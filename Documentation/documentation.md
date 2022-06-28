@@ -159,7 +159,7 @@ I have chosen design 1 due to it feeling more interactive, design 2 feels very u
 | Spell Checked Website                                                    | Spell Checked Nothing spelt Wrong                |
 |--------------------------------------------------------------------------|--------------------------------------------------|
 | Confirm all links lead to intended place according to the navigation map | All links and buttons are working as they should |
-| Confirm all images render properly                                       | All images render correctly                      |
+| Confirm all images render properly under 2 seconds                       | All images render correctly                      |
 | Confirm all css is working                                               | css is working                                   |
 | Carousel Left and Right buttons are working correctly                    | They are working as intended                     |
 | Carousel Images are rendering correctly                                  | The Carousel images have rendered correctly      |
