@@ -207,20 +207,15 @@ The final product is really close to the original plan of the website. There had
 
 Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
 
-Aswell, When it comes to the stakesholders it also suits all there needs. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isnt hard to understand and its easy to navigate to each phone purchase page. When it comes to the Owners the website looks perfessional and most likely will bring in business and money as it has the newest and best iphones. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very mantanible. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the ownsers standards. 
+Also, using the feed back from my peers, i had to change a couple things from the original design, such as in Aiden's feedback he states that "The fonts are hard to read". To fix this problem i made it so when hovering over text under a phone or the image of the phone the text changes to white allowing to be easily read.   
 
+I have also changed the font choice from the original design
 
+Aswell, When it comes to the stakesholders it also suits all there needs. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isnt hard to understand and its easy to navigate to each phone purchase page. When it comes to the Owners the website looks perfessional and most likely will bring in business and money as it has the newest and best iphones. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very mantanible. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the ownsers standards.
 
-# Development Revision And Feedback
+Three things that i would improve:
 
-In the making of the website some the proportions had to be ajusted and changed meaning some of the proportions may not be the same as the plan
-
-+ The first amount of feedback i have been given was that the font colour could be better i feel like if i would have made this white it would have popped alot more then it currently does.
-
-+ The next amount of feedback i got was that i should add videos of unboxing and spec explination so you what your buying
-
-# Stengths and weaknesses
-
-The website isnt the best when it comes to different resolutions then 1920x1080 as the full website cant be seen and you have to scroll left to right, up and down to be able to view the full website. However it has some serious strengths like when you zoom in on information it is easily readable and it doesnt stretch or go out of proportions so people with poor vision can easy read the details of the phones.
++ One thing i would improve is the font styles and colours, The font is one of the complaints from my feed back along side the colour of the font.
++ 
 
  
