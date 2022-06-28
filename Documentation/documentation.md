@@ -31,7 +31,7 @@
 ## Colour scheme
 
 ### Design 1
-+ The colour scheme of the first design, ive gone for a pastel colour design as it complements the entire logo and i think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
++ The colour scheme of the first design, ive gone for a pastel colour design as it complements the entire logo and I think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
 
 + The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours
 
@@ -44,12 +44,12 @@
 
 
 ### Design 2
-+ The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so i want it to look as professional as possible so they will be able to trust and understand the website.
++ The colour scheme of the second design is a basic colours as the website is aimed at adults as children wont be buying these them selfs as the age that is the most of the percent of people to buy them is 30-50yr old women so I want it to look as professional as possible so they will be able to trust and understand the website.
 
 ![alt text](./img/Design2-colours.PNG)
 
 ## Final Colour Choice
-+ I am going to use Design one as it suits the vibe of the indestry alot better then Design two, as well. Lisa stated that the grey would look kinda bland and boring, where as the blue and voilet looks better and has more flash to it which will keep the users interatction.
++ I am going to use Design one as it suits the vibe of the indestry alot better then Design two, as well. Lisa stated that the grey would look bland and boring, where as the blue and voilet looks better and has more flash to it which will keep the users interatction.
 
 # Layout and Features
 
@@ -108,17 +108,17 @@ The weight is gunna be: Medium 500.
 ![alt text](./img/catamaran.PNG)
 
 ### How i would use each font
-I would use Catamaran for all the description and all the information as it is a good contrast to the other font as its quite sharp compaired to the smoothness of the Comfortaa and i would use the Comfortaa as titles and on the navigation bar as Comfortaa is designed for bigger text and it is quite a smooth and clean font.
+I would use Catamaran for all the description and all the information as it is a good contrast to the other font as its quite sharp compaired to the smoothness of the Comfortaa and I would use the Comfortaa as titles and on the navigation bar as Comfortaa is designed for bigger text and it is quite a smooth and clean font.
 
 ## Design 2:
 
 ### Main fonts of the website 
 
-+ For the website i will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that i feel is under apprecated, it also goes really well with the layout and colours of this website.
++ For the website I will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that I feel is under apprecated, it also goes really well with the layout and colours of this website.
 
 + The font will come from google fonts: https://fonts.google.com/specimen/Josefin+Sans, The weight of the font will be: Extra-light 200.
 
-+ For the website i will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as i would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them. 
++ For the website I will also use the font Mukta it is quite a smooth look and slick looking font comparded to the hard edges of the Josefin Sans it is a nice contrast as I would use this font for the titles and navigation bar and then use the Josefin Sans font for the use of information and descriptions of them. 
 
 + Josefin Sans:
 
@@ -208,15 +208,18 @@ The final product is really close to the original plan of the website. There had
 
 Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
 
-Also, using the feed back from my peers, i had to change a couple things from the original design, such as in Aiden's feedback he states that "The fonts are hard to read". To fix this problem i made it so when hovering over text under a phone or the image of the phone the text changes to white allowing to be easily read.   
+Also, using the feed back from my peers, I had to change a couple things from the original design, such as in Aiden's feedback he states that "The fonts are hard to read". To fix this problem I made it so when hovering over text under a phone or the image of the phone the text changes to white allowing to be easily read.   
 
 I have also changed the font choice from the original design
 
 This website is fit for purpose and meets the requirements of the stakesholders. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isn't hard to understand and its easy to navigate to each phone purchase page. When it comes to the owners the website looks perfessional and most likely will bring in business and money as it has the newest and best iphones. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very mantanible. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the owners standards.
 
-Three things that i would improve:
+Another thing I would need to do is complete the pages "All Phones" and "Deals".
 
-+ One thing i would improve is the font styles and colours, The font is one of the complaints from my feed back along side the colour of the font.
-+ 
+Three things that I would improve:
+
++ One thing I would improve is the font styles and colours, The font is one of the complaints from my feed back along side the colour of the font.
++ Another thing that I would improve is adding videos along side the specs of the phones.
++ Last thing I would improve on is making the navigation bar slightly bigger so its not so cramped
 
  
