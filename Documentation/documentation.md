@@ -1,11 +1,11 @@
  # Stakeholders
 ## Customers
-+ The website needs to have information on the product there selling in the case of a phone shop, the brand, model, camera resolusion
-+ The needs to be easly accessible for everyone
++ The website needs to have information on the product their selling in the case of a phone shop, the brand, model, camera resolution
++ The needs to be easily accessible for everyone
 + The website needs to be easy to navigate and easy to find things
 + The Website needs to have an insial rendering of under 2 seconds
 ## Owners
-+ The website needs to look good as this will repersent your brand
++ The website needs to look good as this will represent your brand
 + The website needs to look professional
 + The website needs to bring in business and money
 + The programmers need to be cheap because the owners dont want to pay more the they need
@@ -31,7 +31,7 @@
 ## Colour scheme
 
 ### Design 1
-+ The colour scheme of the first design, ive gone for a pastel colour design as it complements the entire logo and I think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
++ The colour scheme of the first design, i've gone for a pastel colour design as it complements the entire logo and I think it will complement the phones too as most phone companys allow you to get your phone in many different colours including the colours our scheme highlights such as blues and reds
 
 + The pastel pallet isn't too distracting and isn't too boring it the perfect as there quite soft colours
 
@@ -49,7 +49,7 @@
 ![alt text](./img/Design2-colours.PNG)
 
 ## Final Colour Choice
-+ I am going to use Design one as it suits the vibe of the indestry alot better then Design two, as well. Lisa stated that the grey would look bland and boring, where as the blue and voilet looks better and has more flash to it which will keep the users interatction.
++ I am going to use Design one as it suits the vibe of the industry a lot better then Design two, as well. Lisa stated that the grey would look bland and boring, where as the blue and violet looks better and has more flash to it which will keep the users interaction.
 
 # Layout and Features
 
@@ -95,8 +95,8 @@
 + For the website i will use the Comfortaa font this is because it is a nice and simple font with not much change compaired to the normal font so it wont be as distracting, Comfortaa is also just quite an nice and smooth font to read in.     
 + The font will come from google fonts: https://fonts.google.com/specimen/Comfortaa,
 The weight is gunna be: Medium 500.
-+ My website will not all one font my second font of choice is Catamaran this is because i feel like it is a good contrast to my previous font, This will be used for all of the titiles and navigation bar. 
-+ This font will come from google fonts: https://fonts.google.com/specimen/Catamaran, The weight of the font is gunna be: Extra-light 200. 
++ My website will not all one font my second font of choice is Catamaran this is because i feel like it is a good contrast to my previous font, This will be used for all of the titles and navigation bar. 
++ This font will come from google fonts: https://fonts.google.com/specimen/Catamaran, The weight of the font is going to be: Extra-light 200. 
 
 
 + Comfortaa:
@@ -114,7 +114,7 @@ I would use Catamaran for all the description and all the information as it is a
 
 ### Main fonts of the website 
 
-+ For the website I will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that I feel is under apprecated, it also goes really well with the layout and colours of this website.
++ For the website I will use the Josefin Sans font this is because it has quite a nice look to it and it is quite an unique font that I feel is under appreciated, it also goes really well with the layout and colours of this website.
 
 + The font will come from google fonts: https://fonts.google.com/specimen/Josefin+Sans, The weight of the font will be: Extra-light 200.
 
@@ -189,30 +189,30 @@ I have change the colours on the purple so there more readable however I couldnt
 ![alt text](./img/aidenfeedback.PNG)
 
 ## Ash :
-it looks very nice because you have good boxes with loads of improtant information
+it looks very nice because you have good boxes with loads of important information
 I like the name
 the colour purple on the website makes it look depressing
 you might need to work on the links a bit
 the text colour looks nice
 theres a lot of detail in the text boxes, a bit to much for my brain to handle
-very nice selection of phones,not a single andriod hmm
+very nice selection of phones,not a single android hmm
 
 ### Response: 
-I couldnt find another colour that goes with the blue at all and I think the purple and blue looks quite perfeshional, I have toned down the text boxes alot and made it only the inportant stuff
+I couldnt find another colour that goes with the blue at all and I think the purple and blue looks quite professional, I have toned down the text boxes a lot and made it only the inportant stuff
 
 ![alt text](./img/ashfeedback.PNG)
 
 # Final Website
 
-The final product is really close to the original plan of the website. There had to be some design changes like how phones were meant to have a box around each of them. However, in the final product I felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
+The final product is really close to the original plan of the website. There had to be some design changes like how phones were mean't to have a box around each of them. However, in the final product I felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
 
-Another thing that I had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So I scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
+Another thing that I had to change in the final product is the fact there was a video on each phone page which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So I scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
 
 Also, using the feed back from my peers, I had to change a couple things from the original design, such as in Aiden's feedback he states that "The fonts are hard to read". To fix this problem I made it so when hovering over text under a phone or the image of the phone the text changes to white allowing to be easily read.   
 
 I have also changed the font choice from the original design
 
-This website is fit for purpose and meets the requirements of the stakesholders. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isn't hard to understand and its easy to navigate to each phone purchase page. When it comes to the owners the website looks perfessional and most likely will bring in business and money as it has the newest and best iphones. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very mantanible. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the owners standards.
+This website is fit for purpose and meets the requirements of the stakesholders. The customers have a clear and easy to under demostration of what brand and what specs each phone has, as well the rendering time is under 2 seconds keeping user interactions. The navigation isn't hard to understand and its easy to navigate to each phone purchase page. When it comes to the owners the website looks professional and most likely will bring in business and money as it has the newest and best iPhone. The programmer needed for this website would be quite cheap as the code is rather simply, meaning its also very maintainable. Developers would be able to maintain this website quite easy, all the code is in order of what it will appear in on the screen, also the website is easily tested. This website would meet the owners standards.
 
 Another thing I would need to do is complete the pages "All Phones" and "Deals".
 
