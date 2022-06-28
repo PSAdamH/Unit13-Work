@@ -156,14 +156,15 @@ I have chosen design 1 due to it feeling more interactive, design 2 feels very u
 
 # Tests
 
-| Spell Checked Website                                                    | Spell Checked Nothing spelt Wrong                |
-|--------------------------------------------------------------------------|--------------------------------------------------|
-| Confirm all links lead to intended place according to the navigation map | All links and buttons are working as they should |
-| Confirm all images render properly under 2 seconds                       | All images render correctly                      |
-| Confirm all css is working                                               | css is working                                   |
-| Carousel Left and Right buttons are working correctly                    | They are working as intended                     |
-| Carousel Images are rendering correctly                                  | The Carousel images have rendered correctly      |
-| All Navigation bar buttons are working as intended                       | All working Perfectly                            |
+| Test                                                                     | Result                                                           |
+|--------------------------------------------------------------------------|------------------------------------------------------------------|
+| Confirm all links lead to intended place according to the navigation map | All links lead to the correct place                              |
+| Confirm all images render properly under 2 seconds                       | All images render under 2 seconds properly                       |
+| Confirm the CSS for my header works as intended                          | My CSS for my header is working as intended                      |
+| Confirm the CSS for my footer works as intended                          | My CSS for my footer is working as intended                      |
+| Confirm the CSS for my flex boxes are working as intended                | My CSS for my flex boxes are working as intended                 |
+| Confirm the CSS for my image sizes and movements are working as intended | My CSS for my images sizes and movements are working as intended |
+| Confirm all images are actually being found and being loaded             | All images are being found and loaded                            |
 
 I also needed to test if the websites assets and proportions would work as intended on two different web browers i used firefox and google chrome.
 
