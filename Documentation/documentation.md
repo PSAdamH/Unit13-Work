@@ -180,17 +180,17 @@ The colour choice is nice, the purple with the contrast of white is nice with it
 
 The font colour and choice could be improved, I'd recommend the colour white would fit and a different font to look better.
 
-The phone website looks good, at the time of writing this - there is no video. The specs are great, wide variety to look at and compare others with. The buy button is missing too. Why may i not purchase thy product.
+The phone website looks good, at the time of writing this - there is no video. The specs are great, wide variety to look at and compare others with. The buy button is missing too. Why may I not purchase thy product.
 
 ### Response:
 
-I have change the colours on the purple so there more readable however i couldnt find a colour that looks good on the blue other then black. Now whenever you hover a phone the font colour will change making it easier to read
+I have change the colours on the purple so there more readable however I couldnt find a colour that looks good on the blue other then black. Now whenever you hover a phone the font colour will change making it easier to read
 
 ![alt text](./img/aidenfeedback.PNG)
 
 ## Ash :
 it looks very nice because you have good boxes with loads of improtant information
-i like the name
+I like the name
 the colour purple on the website makes it look depressing
 you might need to work on the links a bit
 the text colour looks nice
@@ -198,15 +198,15 @@ theres a lot of detail in the text boxes, a bit to much for my brain to handle
 very nice selection of phones,not a single andriod hmm
 
 ### Response: 
-I couldnt find another colour that goes with the blue at all and i think the purple and blue looks quite perfeshional, I have toned down the text boxes alot and made it only the inportant stuff
+I couldnt find another colour that goes with the blue at all and I think the purple and blue looks quite perfeshional, I have toned down the text boxes alot and made it only the inportant stuff
 
 ![alt text](./img/ashfeedback.PNG)
 
 # Final Website
 
-The final product is really close to the original plan of the website. There had to be some design changes like how phones were meant to have a box around each of them. However, in the final product i felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
+The final product is really close to the original plan of the website. There had to be some design changes like how phones were meant to have a box around each of them. However, in the final product I felt like it was much more pleasing and much more appealing to not have them sorrounded by a box.
 
-Another thing that i had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So i scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
+Another thing that I had to change in the final product is the fact there was a video on each phonepage which wouldnt really work very well as the size of the video was making the video unwatchable and not clear when it came to writing or numbers. So I scrapped the idea, and was going to make new box or switch round the phone image and the video allowing it more watchable.
 
 Also, using the feed back from my peers, I had to change a couple things from the original design, such as in Aiden's feedback he states that "The fonts are hard to read". To fix this problem I made it so when hovering over text under a phone or the image of the phone the text changes to white allowing to be easily read.   
 
